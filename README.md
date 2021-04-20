@@ -2,6 +2,8 @@
 
 ## 👋 Hi there :) My name is JaeHyung Park.
 
+## My Repository List ☞ [INDES](INDEX.md)
+
 <!--
 ![jbro321's github stats](https://github-readme-stats.vercel.app/api?username=jbro321&show_icons=true&theme=merko)
 ## My major is Biomedical Engineering
