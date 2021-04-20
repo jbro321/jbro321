@@ -14,7 +14,7 @@
 
 ## Problem Solving Sites
 
-- [BaekJoon](https://github.com/jbro321/BaekJoon)
+- [BaekJoon_py](https://github.com/jbro321/BaekJoon_py)
 - [CodeUp_py](https://github.com/jbro321/CodeUp_py)
 - [CodeUp_C](https://github.com/jbro321/CodeUp_C)
 
