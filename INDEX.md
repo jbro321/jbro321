@@ -2,7 +2,7 @@
 
 ## Project
 
-- [Unity_game_1](https://github.com/jbro321/Unity_game_1)
+- [RPG_MAKER_GAME](https://github.com/jbro321/RPG_MAKER_GAME)
 - [Study_Cafe_Reservation_System](https://github.com/jbro321/Study_Cafe_Reservation_System)
 
 ## Study
