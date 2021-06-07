@@ -5,12 +5,24 @@
 - [RPG_MAKER_GAME](https://github.com/jbro321/RPG_MAKER_GAME)
 - [Study_Cafe_Reservation_System](https://github.com/jbro321/Study_Cafe_Reservation_System)
 
-## Study
+## Python
 
 - [Python](https://github.com/jbro321/Python)
+
+## Database
+
 - [Database](https://github.com/jbro321/Database)
+
+## HTML
+
 - [HTML](https://github.com/jbro321/HTML)
+
+## Language_C
+
 - [Language_C](https://github.com/jbro321/Language_C)
+
+## JAVA
+
 - [JAVA](https://github.com/jbro321/JAVA)
 
 ## Problem Solving Sites
