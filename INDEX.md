@@ -7,6 +7,8 @@
 
 ## Python
 
+- [Python_Basic_Enthusiastic](https://github.com/jbro321/Python_Basic_Enthusiastic)
+- [Python_Basic_Fastcampus](https://github.com/jbro321/Python_Basic_Fastcampus)
 - [Python](https://github.com/jbro321/Python)
 
 ## Database
@@ -16,6 +18,7 @@
 ## HTML
 
 - [HTML](https://github.com/jbro321/HTML)
+- [Web_Front-end_Basic](https://github.com/jbro321/Web_Front-end_Basic)
 
 ## Language_C
 
