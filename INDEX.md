@@ -18,7 +18,7 @@
 ## HTML
 
 - [HTML](https://github.com/jbro321/HTML)
-- [Web_Front-end_Basic](https://github.com/jbro321/Web_Front-end_Basic)
+- [Web_Front-end_Basic_Fastcampus](https://github.com/jbro321/Web_Front-end_Basic_Fastcampus)
 
 ## Language_C
 
