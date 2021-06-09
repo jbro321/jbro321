@@ -13,6 +13,10 @@
 - [Python_Basic_Fastcampus](https://github.com/jbro321/Python_Basic_Fastcampus)
 - [Python](https://github.com/jbro321/Python)
 
+## Django
+
+- [Django_Basic_fc](https://github.com/jbro321/Django_Basic_fc)
+
 ## Database
 
 - [Database](https://github.com/jbro321/Database)
