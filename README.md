@@ -6,6 +6,7 @@
 
 ### Email : jaehyung0321@gmail.com
 ### Instagram : @jbro321
+### Linkedin : [JaeHyung Park](http://linkedin.com/in/jaehyung-park-69b672202)
 
 ### My Repositories ☞ [GO](INDEX.md)
 
