@@ -3,7 +3,6 @@
 ## 👋 Hi there :) My name is JaeHyung Park.
 ### 현재 저는 Django를 이용한 Web Back-end를 공부중입니다!
 
-### Email : jaehyung0321@gmail.com
 ### My Repositories ☞ [LIST](INDEX.md)
 ### Hobby > Instagram : [@jbro321](https://www.instagram.com/jbro321/) & 테니스!!
 
@@ -11,6 +10,7 @@
 ![jbro321's github stats](https://github-readme-stats.vercel.app/api?username=jbro321&show_icons=true&theme=merko)
 ## My major is Biomedical Engineering
 ### Linkedin : [JaeHyung Park](http://linkedin.com/in/jaehyung-park-69b672202)
+### Email : jaehyung0321@gmail.com
 
 **jbro321/jbro321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
