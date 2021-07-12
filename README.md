@@ -7,8 +7,6 @@
 ### My Repositories ☞ [LIST](INDEX.md)
 ### Hobby > Instagram : [@jbro321](https://www.instagram.com/jbro321/)
 
-### Django Project1 : http://jbro321.pythonanywhere.com/
-
 <!--
 ![jbro321's github stats](https://github-readme-stats.vercel.app/api?username=jbro321&show_icons=true&theme=merko)
 ## My major is Biomedical Engineering
