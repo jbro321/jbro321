@@ -5,7 +5,7 @@
 
 ### Email : jaehyung0321@gmail.com
 ### My Repositories ☞ [LIST](INDEX.md)
-### Hobby > Instagram : [@jbro321](https://www.instagram.com/jbro321/)
+### Hobby > Instagram : [@jbro321](https://www.instagram.com/jbro321/) & 테니스!!
 
 <!--
 ![jbro321's github stats](https://github-readme-stats.vercel.app/api?username=jbro321&show_icons=true&theme=merko)
