@@ -3,7 +3,7 @@
 ## 👋 Hi there :) My name is JaeHyung Park.
 ### 현재 저는 Django를 이용한 Web Back-end를 공부중입니다!
 
-### My Repositories : [Repositories](INDEX.md)
+### My Repositories : [REPOSITORIES](INDEX.md)
 ### Hobby > Instagram : [먹스타그램](https://www.instagram.com/jbro321/) & [테니스](https://www.instagram.com/jbroo321/)
 
 <!--
