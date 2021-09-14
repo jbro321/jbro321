@@ -41,6 +41,10 @@
 - [CodeUp_py](https://github.com/jbro321/CodeUp_py)
 - [CodeUp_C](https://github.com/jbro321/CodeUp_C)
 
+## Algorithm
+
+- [이코테](https://github.com/jbro321/This_is_coding_test)
+
 ## ETC
 
 - [VS_Code_Shortcuts](https://github.com/jbro321/VS_Code_Shortcuts)
