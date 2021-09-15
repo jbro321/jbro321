@@ -4,9 +4,6 @@
 
 - Login Page https://jbro321.github.io/HTML/
 - Main Page https://jbro321.github.io/Web_Front-end_Basic_Fastcampus/
-- Ex_market [ex_market](https://github.com/jbro321/ex_market)
-- RPG_MAKER_GAME ...... Coming Soon!!
-- Study_Cafe_Reservation_System ...... Coming Soon!!
 
 ## Python
 
