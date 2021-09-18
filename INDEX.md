@@ -32,15 +32,12 @@
 
 - [JAVA](https://github.com/jbro321/JAVA)
 
-## Problem Solving Sites
-
-- [BaekJoon_py](https://github.com/jbro321/BaekJoon_py)
-- [CodeUp_py](https://github.com/jbro321/CodeUp_py)
-- [CodeUp_C](https://github.com/jbro321/CodeUp_C)
-
 ## Algorithm
 
 - [이코테](https://github.com/jbro321/This_is_coding_test)
+- [BaekJoon_py](https://github.com/jbro321/BaekJoon_py)
+- [CodeUp_py](https://github.com/jbro321/CodeUp_py)
+- [CodeUp_C](https://github.com/jbro321/CodeUp_C)
 
 ## ETC
 
