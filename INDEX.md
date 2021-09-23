@@ -13,7 +13,7 @@
 
 ## Django
 
-- [Django_Basic_fc](https://github.com/jbro321/Django_Basic_fc) ☞ http://jbro321.pythonanywhere.com/
+- [Django_Basic_fc](https://github.com/jbro321/Django_Basic_fc)
 
 ## Database
 
