@@ -2,8 +2,6 @@
 
 ## 👋 Hi there :) My name is JaeHyung Park.
 
-
-### My Repositories : [REPOSITORIES](INDEX.md)
 ### My Blog : [velog](https://velog.io/@jbro321)
 
 <!--
