@@ -2,7 +2,7 @@
 
 ## 👋 Hi there :) My name is JaeHyung Park.
 
-### My velog : [⚡](https://velog.io/@jbro321)
+### My Velog : [Velog](https://velog.io/@jbro321)
 
 <!--
 ![jbro321's github stats](https://github-readme-stats.vercel.app/api?username=jbro321&show_icons=true&theme=merko)
