@@ -2,7 +2,24 @@
 
 ## 👋 Hi there :) My name is JaeHyung Park.
 
+## 안녕하세요!! 제 깃허브에 놀러오신 것을 환영합니다 :)
+
+현재 저는 데이터 사이언스 분야를 공부중이고
+
+머신러닝 엔지니어 or 데이터 사이언티스트로 나아가려고 합니다!
+
+## Hi there :) Welcome to my Github ! My name is JaeHyung Park.
+
+Currently I am learning Data Science !
+
+And interested in becoming a Machine Learning Engineer or Data Scientist
+
+---
+
+👇 꾸준하진 못하지만 꾸준히 쓰는 블로그
+
 ### Blog : [Velog](https://velog.io/@jbro321)
+
 
 <!--
 ![jbro321's github stats](https://github-readme-stats.vercel.app/api?username=jbro321&show_icons=true&theme=merko)
