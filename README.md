@@ -20,7 +20,7 @@ And interested in becoming a Machine Learning Engineer or Data Scientist
 
 ### Blog : [Velog](https://velog.io/@jbro321)
 
-
+<!--
 **jbro321/jbro321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
