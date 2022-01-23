@@ -6,7 +6,7 @@
 
 현재 저는 데이터 사이언스 분야를 공부중이고
 
-머신러닝 엔지니어 or 데이터 사이언티스트로 나아가려고 합니다!
+머신러닝 엔지니어 or 데이터 사이언티스트가 목표입니다.
 
 ## Hi there :) Welcome to my Github ! My name is JaeHyung Park.
 
