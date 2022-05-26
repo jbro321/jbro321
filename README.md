@@ -2,14 +2,6 @@
 
 ## 👋 Hi there :) My name is JaeHyung Park.
 
-## 안녕하세요!! 제 깃허브에 놀러오신 것을 환영합니다 :)
-
-현재 저는 데이터 사이언스 분야를 공부중이고
-
-머신러닝 엔지니어 or 데이터 사이언티스트가 목표입니다.
-
-## Hi there :) Welcome to my Github ! My name is JaeHyung Park.
-
 Currently I am learning Data Science !
 
 And interested in becoming a Machine Learning Engineer or Data Scientist
