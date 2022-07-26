@@ -2,9 +2,9 @@
 
 ## 👋 Hi there :) My name is JaeHyung Park.
 
-### Currently I am learning Data Science !
+Back to the basic...
 
-### And interested in becoming a Machine Learning Engineer or Data Scientist
+ㄷㅏㅅㅣ ㅊㅗㅅㅣㅁㅇㅡㄹㅗ
 
 ---
 
